@@ -1,3 +1,3 @@
 * learning javascript:
 
-https://saty13.github.io/javascript_games/
+https://samsepiol21.github.io/javascript_games/
