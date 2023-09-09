@@ -1,3 +1,3 @@
 * learning javascript:
 
-https://samsepiol21.github.io/javascript_games/
+https://compil3-sudo.github.io/javascript_games/
